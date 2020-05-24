@@ -47,7 +47,7 @@
         "dir": "src/brave",
         "branch": "master",
         "repository": {
-          "url": "https://github.com/brave/brave-core.git"
+          "url": "https://github.com/liz3/brave-core.git"
         }
       }
     },
@@ -57,10 +57,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/brave/brave-browser.git"
+    "url": "git+https://github.com/liz3/brave-liz3.git"
   },
   "author": {
-    "name": "Brave Software <support@brave.com>"
+    "name": "Liz3 <liz3@liz3.net>"
   },
   "contributors": [
     {
